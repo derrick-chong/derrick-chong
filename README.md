@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## derrick chong
 
-You can use the [editor on GitHub](https://github.com/derrick-chong/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page! I am a Microbiology & Immunology Honours student from the University of British Columbia. I am most passionate about scientific research which has taken me to four different labs spanning the subjects of ecology, botany, entomology, microbiology, geochemistry, cutaneous biology, and other health sciences. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I am currently a Research Intern in [Julia Oh's lab](https://www.jax.org/research-and-faculty/research-labs/the-oh-lab) at the [Jackson Laboratory for Genomic Medicine](https://www.jax.org/) in Connecticut. 
+
+
 
 ### Markdown
 
