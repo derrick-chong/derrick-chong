@@ -1,40 +1,18 @@
 ## derrick chong
 
-Welcome to my page! I am a Microbiology & Immunology Honours student from the University of British Columbia. I am most passionate about scientific research which has taken me to four different labs spanning the subjects of ecology, botany, entomology, microbiology, geochemistry, cutaneous biology, and other health sciences. 
+Welcome to my page! I am a Microbiology & Immunology Honours student from the University of British Columbia. I am most passionate about scientific research which has taken me to four different labs spanning the subjects of ecology, botany, entomology, microbiology, geochemistry, cutaneous biology, and other health sciences.
+
+I am also interested in science communication and education. I will be working on producing a podcast that features UBC scientists and UBC research in the upcoming 2019 school year. 
 
 
-I am currently a Research Intern in [Julia Oh's lab](https://www.jax.org/research-and-faculty/research-labs/the-oh-lab) at the [Jackson Laboratory for Genomic Medicine](https://www.jax.org/) in Connecticut. 
+## science
 
+I fell in love with understanding how things interact with one another. Some scientists call this study "ecology".
 
+I started out in [Dr. Juli Carrillo's lab](https://lfs-carrillo.sites.olt.ubc.ca/) to understand how certain agriculture pests interact with plants. 
 
-### Markdown
+Then I followed my love for plants to [Dr. Cara Haney's lab](https://haneylab.msl.ubc.ca/) where I worked on the plant microbiome. Here, I discovered a love for microbiome research. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My particular interest in skin flew me all the way to New England in [Dr. Julia Oh's lab](https://www.jax.org/research-and-faculty/research-labs/the-oh-lab) at the [Jackson Laboratory for Genomic Medicine](https://www.jax.org/) in Connecticut.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/derrick-chong/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sticking with the health sciences, I will return to UBC in September and join [Dr. Carolina Tropini's lab](http://tropini.microbiology.ubc.ca) to work on the gut microbiome. 
