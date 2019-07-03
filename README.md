@@ -9,10 +9,10 @@ I am also interested in science communication and education. I will be working o
 
 I fell in love with understanding how things interact with one another. Some scientists call this study "ecology".
 
-I started out in [Dr. Juli Carrillo's lab](https://lfs-carrillo.sites.olt.ubc.ca/) to understand how certain agriculture pests interact with plants. 
+I started out in [Dr. Juli Carrillo's lab](https://lfs-carrillo.sites.olt.ubc.ca/) in the summer of 2017 to understand how certain agriculture pests interact with plants. 
 
-Then I followed my love for plants to [Dr. Cara Haney's lab](https://haneylab.msl.ubc.ca/) where I worked on the plant microbiome. Here, I discovered a love for microbiome research. 
+Then I followed my love for plants to [Dr. Cara Haney's lab](https://haneylab.msl.ubc.ca/) where I worked on the plant microbiome in 2018. Here, I discovered a love for microbiome research. 
 
-My particular interest in skin flew me all the way to New England in [Dr. Julia Oh's lab](https://www.jax.org/research-and-faculty/research-labs/the-oh-lab) at the [Jackson Laboratory for Genomic Medicine](https://www.jax.org/) in Connecticut.
+In May 2019, my particular interest in skin and passion for the microbiome flew me all the way to New England in [Dr. Julia Oh's lab](https://www.jax.org/research-and-faculty/research-labs/the-oh-lab) at the [Jackson Laboratory for Genomic Medicine](https://www.jax.org/) in Connecticut.
 
-Sticking with the health sciences, I will return to UBC in September and join [Dr. Carolina Tropini's lab](http://tropini.microbiology.ubc.ca) to work on the gut microbiome. 
+Finally, sticking with the health sciences and still holding onto the microbiome tightly, I will return to UBC in September and join [Dr. Carolina Tropini's lab](http://tropini.microbiology.ubc.ca) to work on the gut microbiome. 
